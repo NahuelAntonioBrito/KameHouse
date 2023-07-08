@@ -1,0 +1,49 @@
+.itemDetail {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.imgDetail{
+    width: 320px;
+    height: 340px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.containerDescrip{
+    flex: 1;
+}
+
+.titulo{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.precioDetail{
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.description{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.buttonProd{
+    background-color: #263143;
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    font-size: 17px;
+    font-weight: 300;
+    cursor:pointer;
+}
+
+.itemCount{
+    margin-left: 100px;
+}
